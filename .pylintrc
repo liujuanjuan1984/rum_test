@@ -1,0 +1,5 @@
+[MASTER]
+disable=
+    C0114, # missing-module-docstring
+    C0115, # missing-class-docstring
+    C0103, # Variable name "v" doesn't conform to snake_case naming style (invalid-name)
